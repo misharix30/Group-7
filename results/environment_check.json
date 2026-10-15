@@ -33,7 +33,7 @@
     "nf4_ok": true
   },
   "database": {
-    "path": "ddi_chroma_db_backup\\ddi_chroma_db\\chroma.sqlite3",
+    "path": "ddi_chroma_db\\ddi_chroma_db\\chroma.sqlite3",
     "collections": [
       "ddi_interactions"
     ]

@@ -2,7 +2,7 @@
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DB_PATH = ROOT / "ddi_chroma_db_backup" / "ddi_chroma_db"
+DB_PATH = ROOT / "ddi_chroma_db" / "ddi_chroma_db"
 CSV_PATH = ROOT / "ddi_cleaned.csv"
 NOTEBOOK_PATH = ROOT / "notebooks" / "Prompt_Engineering_with_RAG_Organized.ipynb"
 QWEN_MODEL = "Qwen/Qwen3-4B-Instruct-2507"
