@@ -1,0 +1,41 @@
+{
+  "python": "3.11.9",
+  "packages": {
+    "torch": "2.10.0+cu128",
+    "torchvision": "0.25.0+cu128",
+    "transformers": "5.19.0",
+    "accelerate": "1.15.0",
+    "bitsandbytes": "0.50.2",
+    "sentence-transformers": "6.1.0",
+    "langchain-core": "1.6.9",
+    "langchain-huggingface": "1.2.3",
+    "langchain-chroma": "1.1.0",
+    "chromadb": "1.5.9",
+    "streamlit": "1.65.0",
+    "pandas": "3.0.6",
+    "Pillow": "12.3.0",
+    "ipykernel": "7.4.0",
+    "jupyterlab": "4.6.4",
+    "pytest": "9.1.1"
+  },
+  "errors": [],
+  "cuda": {
+    "available": true,
+    "runtime": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop GPU",
+    "free_gib": 6.9,
+    "total_gib": 7.96,
+    "capability": [
+      12,
+      0
+    ],
+    "bf16_matmul_ok": true,
+    "nf4_ok": true
+  },
+  "database": {
+    "path": "ddi_chroma_db_backup\\ddi_chroma_db\\chroma.sqlite3",
+    "collections": [
+      "ddi_interactions"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "offline": true,
+  "elapsed_seconds": 129.06,
+  "cases": [
+    {
+      "case": "greeting_ar",
+      "status": "out_of_scope",
+      "medgemma_used": false,
+      "nonempty_response": true,
+      "passed": true
+    },
+    {
+      "case": "valid_en",
+      "status": "valid",
+      "medgemma_used": true,
+      "nonempty_response": true,
+      "passed": true,
+      "response_words": 49
+    },
+    {
+      "case": "valid_ar",
+      "status": "valid",
+      "medgemma_used": true,
+      "nonempty_response": true,
+      "passed": true,
+      "response_words": 26
+    },
+    {
+      "case": "one_drug",
+      "status": "out_of_scope",
+      "medgemma_used": false,
+      "nonempty_response": true,
+      "passed": true
+    },
+    {
+      "case": "three_drugs",
+      "status": "out_of_scope",
+      "medgemma_used": false,
+      "nonempty_response": true,
+      "passed": true
+    },
+    {
+      "case": "valid_no_record",
+      "status": "valid",
+      "medgemma_used": false,
+      "nonempty_response": true,
+      "passed": true
+    }
+  ],
+  "all_passed": true
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the interaction between Trioxsalen and Verteporfin?",
+    "label": "valid"
+  },
+  {
+    "question": "Does Verteporfin interact with Trioxsalen?",
+    "label": "valid"
+  },
+  {
+    "question": "Can I take Carbamazepine with Doxorubicin?",
+    "label": "valid"
+  },
+  {
+    "question": "What happens if I combine Amodiaquine and Celecoxib?",
+    "label": "valid"
+  },
+  {
+    "question": "does warfarin interact with ibuprofen",
+    "label": "valid"
+  },
+  {
+    "question": "Can I take Metformin with   Cimetidine?",
+    "label": "valid"
+  },
+  {
+    "question": "Do Simvastatin and Clarithromycin interact?",
+    "label": "valid"
+  },
+  {
+    "question": "I'm taking Digoxin. Can I also take Amiodarone?",
+    "label": "valid"
+  },
+  {
+    "question": "What is the interaction between Tirzepatide and Lecanemab?",
+    "label": "valid"
+  },
+  {
+    "question": "Can I take Metformin with Donanemab?",
+    "label": "valid"
+  },
+  {
+    "question": "I love you.",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "What are the symptoms of diabetes?",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "What dose of Metformin should I take?",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "What are the side effects of Ibuprofen?",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "Does Warfarin interact with other medications?",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "Can I take Metformin with the other medication?",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "Can I take Warfarin, Ibuprofen, and Aspirin together?",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "Does Metformin interact with METFORMIN?",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "What is the interaction between",
+    "label": "out_of_scope"
+  },
+  {
+    "question": "Can I take these two medications together?",
+    "label": "out_of_scope"
+  }
+]

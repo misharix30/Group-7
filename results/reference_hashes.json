@@ -1,0 +1,6 @@
+{
+  "notebooks\\Prompt_Engineering_with_RAG_Organized.ipynb": "246651f1bc328d50963a8abe200adce28d22444d2fe34e407faacd0898df011c",
+  "notebooks\\RAG_DDI_Organized.ipynb": "9be2b34ae182267725fcb65c5dd140a00a46b2223e2becc8dffb7343c36e4f16",
+  "ddi_cleaned.csv": "0d70397e5da2b66f7a29bb61a19720a4b69cf76128adedf428839173c38ee4c4",
+  "ddi_chroma_db_backup\\ddi_chroma_db\\chroma.sqlite3": "273aa852d0c18d6d3e16d322739c86b5dc8c685feea991df9c359d401d5dd685"
+}
