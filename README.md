@@ -81,7 +81,7 @@ The application opens the existing index; it does not rebuild embeddings or crea
 
 ### Data Sources and Licensing
 
-- **Data provider:** [DrugBank](https://go.drugbank.com/). Usage and redistribution are governed by the applicable [DrugBank terms](https://trust.drugbank.com/drugbank-trust-center/drugbank-terms-of-service) and the license attached to the original dataset download.
+- **Data provider:** [DrugBank]([https://go.drugbank.com/](https://tdcommons.ai/multi_pred_tasks/ddi/)). 
 - The exact download URL, release identifier, and dataset-specific license document are not recorded in the supplied project materials. The presence of a local CSV or index does not establish redistribution permission; confirm the applicable terms before sharing these data files.
 - Model licenses are listed above. Accessing MedGemma requires accepting its model terms on Hugging Face.
 - A project-code license has not yet been declared in this repository; third-party models and data retain their own licenses.
